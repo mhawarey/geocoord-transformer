@@ -1,5 +1,7 @@
 # GeoCoord Transformer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A desktop GUI application for geodetic coordinate system transformations, built with Python and Tkinter.
 
 ![GeoCoord Transformer](preview.png)
@@ -50,6 +52,7 @@ On Windows, double-click `run.bat`.
 ## Author
 
 **Dr. Mosab Hawarey**
+>
 PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
 
 - GitHub: https://github.com/mhawarey
@@ -58,4 +61,4 @@ PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MB
 
 ## License
 
-MIT License.
+MIT License
